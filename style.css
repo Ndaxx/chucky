@@ -1,0 +1,39 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.uno {
+    text-align: center;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.todo {
+    background-color: rgba(0, 60, 255, 0.603);
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.dos {
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+.parrafo{
+    padding-top: 50px;
+}
+
+.tres {
+    text-align: center;
+    border-top: 2px double gray; 
+    border-bottom: 2px double gray;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
