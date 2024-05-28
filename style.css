@@ -37,3 +37,11 @@ body, html {
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
+.green {
+    background-color: green;
+}
+
+.gray {
+    background-color: gray;
+}
