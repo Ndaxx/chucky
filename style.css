@@ -45,3 +45,28 @@ body, html {
 .gray {
     background-color: gray;
 }
+
+.input {
+    width: 35px;
+    text-decoration: underline;
+    border-bottom: 1px solid #000; /* Color del subrayado */
+    display: inline;
+}
+
+.input1 {
+    width: 35px;
+    text-decoration: underline;
+    border-bottom: 1px solid #000; /* Color del subrayado */
+    display: inline;
+}
+
+.letras {
+    text-align: center;
+    margin: 150px;
+}
+
+span {
+    border-bottom: 1px solid #000; /* Color del subrayado */
+    display: inline;
+  }
+  

@@ -4,6 +4,7 @@ let derecha = document.getElementById("derecha");
 let img = document.getElementById("imgg");
 let angulo = 0;
 
+
 const checkButton = (button) => {
     if (button === derecha) {
         izquierda.classList.add("gray");
@@ -46,6 +47,8 @@ derecha.addEventListener("click", () => {
 checkAngle();
 
 });
+
+
 
 
 
